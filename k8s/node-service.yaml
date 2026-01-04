@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: node-service
-          image: mariodotdev/node-service:latest
+          image: mariopratama/node-service:latest
           ports:
             - containerPort: 3000
 ---

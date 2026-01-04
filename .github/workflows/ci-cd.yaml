@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  IMAGE_NAMESPACE: mariodotdev
+  IMAGE_NAMESPACE: mariopratama
 
 jobs:
   build-push-deploy:

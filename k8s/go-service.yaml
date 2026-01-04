@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: go-service
-          image: mariodotdev/go-service:latest
+          image: mariopratama/go-service:latest
           ports:
             - containerPort: 8080
 ---
